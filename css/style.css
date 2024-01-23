@@ -1,0 +1,13 @@
+h1,h3{
+    text-align: center;
+    background-color: limegreen;
+}
+
+form{
+    display: block;
+    border-style:10 px solid;
+}
+.form-element{
+    text-align: center;
+    margin: 10px;
+}
